@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TallerWebSolutions/sandbox-ai.git",
+  "license": "MIT"
+}
